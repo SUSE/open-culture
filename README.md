@@ -11,9 +11,9 @@ All content within is licensed under CC-BY-SA https://creativecommons.org/licens
 
 * [Project Whitepaper](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Vision%2C%20Mission%20%26%20Values%20Whitepaper.pdf)
 * [Project Timeline](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Project%20Timeline.pdf)
-* [Guide for Writing a Pre-Work Brand Survey](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Guidance%20for%20Writing%20a%20Pre%20Work%20Brand%20Survey.pdf)
-* [Guide for Survey Analysis](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Survey%20Analysis%20Guidance.pdf)
-* [Resources for Using Brand Archetypes](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Resources%20For%20Using%20Brand%20Archetypes.pdf)
+* [Guide - Writing a Pre-Work Brand Survey](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Guidance%20for%20Writing%20a%20Pre%20Work%20Brand%20Survey.pdf)
+* [Guide - Survey Analysis](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Survey%20Analysis%20Guidance.pdf)
+* [Resources - Using Brand Archetypes](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Resources%20For%20Using%20Brand%20Archetypes.pdf)
 * [Example - 12 Archetypes](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Example%20-%2012%20Archetypes%20-%20Geeko.pdf)
 * [Activity - Team leader Facilitation Presentation Deck](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Mission%20and%20Values%20Team%20Leader%20Facilitation%20Deck.pptx)
 * [Card Game - Team leader facilitation](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Card%20Game%20-%20Team%20Leader%20Facilitation.pdf)

@@ -5,3 +5,6 @@ This repository is host to resources and documents designed to help open source 
 Created by SUSE and shared publicly so that other groups can benefit. 
 
 All content within is licensed under CC-BY-SA https://creativecommons.org/licenses/by-sa/4.0
+
+## Comapny Mission and Values Discovery Process
+[Start with the Whitepaper here](https://github.com/SUSE/open-culture/blob/main/mission-values-process/Vision%2C%20Mission%20%26%20Values%20Whitepaper.pdf) then explore other documents [in the project folder](https://github.com/SUSE/open-culture/tree/main/mission-values-process) 
